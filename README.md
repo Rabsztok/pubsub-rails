@@ -1,6 +1,6 @@
 # Pubsub::Rails
 
-TODO: Write a gem description
+PubSub.js in your Asset Pipeline.
 
 ## Installation
 
